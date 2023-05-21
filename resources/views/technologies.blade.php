@@ -1,7 +1,10 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <x-header>
+
+  </x-header>
+{{-- <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -30,11 +33,11 @@
   </script>
 
 
-</head>
+</head> --}}
 
 <body id="page-top">
 
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+{{-- <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="#page-top"><i class="fa fa-code"></i></a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -81,7 +84,7 @@
       </a>
     </div>
   </div>
-</header>
+</header> --}}
 <section id="professional">
   <div class="container">
     <div class="row">
@@ -808,8 +811,10 @@
   </div>
 </section>
 
+<x-footer>
 
-<footer>
+</x-footer>
+{{-- <footer>
   <div class="container">
     <div class="row">
       <div class="col-md-4">
@@ -840,7 +845,7 @@
 <script src="/assets/js/jqBootstrapValidation.js"></script>
 <script src="/assets/js/contact_me.js"></script>
 
-<script src="/assets/js/agency.min.js"></script>
+<script src="/assets/js/agency.min.js"></script> --}}
 
 </body>
 

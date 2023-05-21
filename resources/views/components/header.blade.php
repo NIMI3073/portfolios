@@ -53,6 +53,7 @@
                                         <li><a href="abouts">About</a></li>
                                         
                                         <li><a href="contact">Contact</a></li>
+                                        <li><a href="technologies">Technologies</a></li>
                                     </ul>
                                 </nav>
                             </div>

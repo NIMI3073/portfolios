@@ -113,7 +113,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6 col-lg-5">
                         <div class="thumb">
-                            <img src="img/service/1.png" alt="">
+                            <img src="img/service/easysubmit1.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -139,7 +139,7 @@
                             </div>
                     <div class="col-md-6 col-lg-6">
                         <div class="thumb padding_left">
-                            <img src="img/service/2.png" alt="">
+                            <img src="img/service/easysubmit2.jpg" alt="">
                         </div>
                     </div>
                     
