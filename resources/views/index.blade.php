@@ -142,7 +142,7 @@
     <!-- service_area end  -->
 
         <!-- testimonial_area  -->
-        <div class="testimonial_area ">
+        {{-- <div class="testimonial_area ">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
@@ -200,7 +200,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- /testimonial_area  -->
     
 
@@ -208,6 +208,4 @@
     <x-footer>
 
     </x-footer>
-    git remote set-url origin git@github.com:User/UserRepo.git
-    git remote add origin git@github.com:User/UserRepo.git
 </html>

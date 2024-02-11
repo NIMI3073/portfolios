@@ -12,7 +12,7 @@
                 <div class="row align-items-center position-relative">
                     <div class="col-lg-12 ">
                         <div class="slider_text text-center about_slide">
-                            <h1 class="text-white" style="font-family: cursive; font-size:40px">Hi there, I am Oluwalonimi Olanrewaju <br>
+                            <h1 class="text-white" style="font-family: cursive; font-size:30px">Hi there, I am Oluwalonimi Olanrewaju <br>
                                     Full Stack Developer  <br>
                                     I’m a Creative web Developer based on Nigeria, who loves clean, simple & unique design. I also enjoy coding
                                 </h1>
@@ -23,7 +23,7 @@
                                         <img class="card-img-top" src="images/Nimi1.jpg
                                         " alt=" image">
                                     </div>
-                                    <div class="col-sm-3 card text-dark">Creative personnel with focus of delivering the best possible result within the least possible time frame, a goal getter, can function in a team and also individually. Highly recommended for problem solving and analysis using digital skills ranging from relevant soft wares to programming and animations. Senior Web Developer specializing backend development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including</div>
+                                    <div class="col-sm-3 card-card-secondary text-dark">Creative personnel with focus of delivering the best possible result within the least possible time frame, a goal getter, can function in a team and also individually. Highly recommended for problem solving and analysis using digital skills ranging from relevant soft wares to programming and animations. Senior Web Developer specializing backend development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including</div>
                                     {{-- <div class="col-sm-3"> <img src="images/best.jpg" alt="best"width="200" height="300"> </div> --}}
                                     {{-- <div class="col-sm-3">.col-sm-3</div> --}}
                               
@@ -129,7 +129,7 @@
         </div>
     </div>
 
-    <div class="download_area">
+    {{-- <div class="download_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-10">
@@ -143,7 +143,6 @@
                     <div class="download_left">
                         <p>Great technical skills and the techniques
                         </p>
-                        {{-- <p>Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget </p> --}}
                         <a href="#" class="boxed-btn3-line">Download CV</a>
                     </div>
                 </div>
@@ -207,10 +206,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
        <!-- testimonial_area  -->
-       <div class="testimonial_area ">
+       {{-- <div class="testimonial_area ">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -268,7 +267,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- /testimonial_area  -->
 
    
