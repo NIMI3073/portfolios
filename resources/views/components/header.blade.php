@@ -45,7 +45,7 @@
                         
                         <div class="col-xl-6 col-lg-7">
                             <div class="main-menu  d-none d-lg-block">
-                                <nav>
+                                <nav class="navbar-nav ml-auto" >
                                     <ul id="navigation">
                                         <li><a href="/">home</a></li>
                                         <li><a href="services">services</a></li>

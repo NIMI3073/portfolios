@@ -39,7 +39,7 @@
                         <h3>
                                 Backend Development
                         </h3>
-                        <p>With PHP Laravel: I develop a well customized,secured web applications</p>
+                        <p>With PHP Laravel: I develop a well customized,secured web applications and custom websites</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">

@@ -22,8 +22,8 @@
                 </div>
                 <div class="col-md-3">
                     <div class="single_links d-flex justify-content-between align-items-center">
-                        <span>Dribbble</span>
-                        <a href="#"> <i class="fa fa-dribbble"></i> </a>
+                        <span>Twitter</span>
+                        <a href="#"> <i class="fa fa-twitter"></i> </a>
                     </div>
                 </div>
                 <div class="col-md-3">

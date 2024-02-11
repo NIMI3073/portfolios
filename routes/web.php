@@ -23,4 +23,7 @@ Route::get('/serve', fn()=>view('serve'));
 Route::get('/services', fn()=>view('services'));
 Route::get('/contact', fn()=>view('contact'));
 Route::get('/technologies', fn()=>view('technologies'));
+Route::get('/contact_process', fn()=>view('contact_process'));
 
+
+Route::post('/contact_process',fn()=>view('contact_process'));
