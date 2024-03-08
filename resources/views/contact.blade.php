@@ -1,8 +1,6 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
 
 <x-header>
-  
+
 </x-header>
 
 <body>
@@ -11,7 +9,7 @@
         <![endif]-->
 
     <!-- header-start -->
-    <header>
+
             <div class="header-area ">
                 <div id="sticky-header" class="main-header-area">
                     <div class="container-fluid ">
