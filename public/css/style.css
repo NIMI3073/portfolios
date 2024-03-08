@@ -24,6 +24,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-style: normal;
+  
 }
 
 /* line 12, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
@@ -1448,7 +1449,7 @@ h3 {
   text-transform: capitalize;
   font-weight: 300;
   line-height: 90px;
-  color: #fff;
+  color:#fdae5c;
   margin-bottom: 55px;
 }
 
@@ -1484,7 +1485,7 @@ h3 {
 .slider_area .single_slider .slider_text p {
   font-size: 30px;
   font-weight: 400;
-  color: #F91842;
+  color: #fdae5c;
   font-family: "Roboto", sans-serif;
   margin-bottom: 24px;
 }
