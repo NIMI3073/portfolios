@@ -12,14 +12,14 @@
                 <div class="row align-items-center position-relative">
                     <div class="col-lg-9">
                         <div class="slider_text">
-                            <h3>Hi there, I am Olanrewaju Oluwalonimi<br>
+                            <h3>Hi there, I'm Olanrewaju Oluwalonimi<br>
                                 <span>Software Developer</span></h3>
                                 {{-- <p>Am a developer who loves clean,simple d</p> --}}
                         {{-- <a class="boxed-btn3-line" href="services">View Works</a> --}}
                         </div>
                     </div>
                     <div class="my_img d-none d-lg-block">
-                        <img src="images/Nimi1.jpg" alt="best"width="350" height="760">
+                        <img src="images/nimi.png" alt="img"width="300" height="700">
                     </div>
                 </div>
             </div>

@@ -53,21 +53,21 @@
                                         <li><a href="abouts">About</a></li>
                                         
                                         <li><a href="contact">Contact</a></li>
-                                        <li><a href="technologies">Technologies</a></li>
+                                   
                                     </ul>
                                 </nav>
                             </div>
                         </div>
-                        {{-- <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                        <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="Appointment">
                                 <div class="book_btn d-none d-lg-block">
-                                    <a href="#">Let’s Talk</a>
+                                    <a href="contact">Let’s Talk</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12">
                             <div class="mobile_menu d-block d-lg-none"></div>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
 
