@@ -111,7 +111,7 @@
       </div>
 
 
-      <div class="row" style="background-color:#dee9f0">
+      <div class="row" style="background-color:white">
         <div class="col-12">
           <h2 class="contact-title">Get in Touch</h2>
         </div>

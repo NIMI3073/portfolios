@@ -12,20 +12,20 @@
                 <div class="row align-items-center position-relative">
                     <div class="col-lg-12 ">
                         <div class="slider_text text-center about_slide">
-                            <h1 class="" style="font-family: cursive; font-size:30px">Hi there, I am Oluwalonimi Olanrewaju <br>
+                            <h1 class="text-white" style="font-family: cursive; font-size:30px">Hi there, I am Oluwalonimi Olanrewaju <br>
                                     Full Stack Developer  <br>
                                     I’m a Creative web Developer based on Nigeria, who loves clean, simple & unique design. I also enjoy coding
                                 </h1>
                                 <div class="row float-left mb-7">
-                                    <div class="col-sm-3 c" >
+                                    <div class="col-sm-3 bg-secondary text-white" >
                                         I started Coding in 2021, So far i have developed easySubmit.com(A website where built for universities for assignments submission ), foodie.com( A website designed for a Resturant for Food ordering and delivering) and many other websites for clients in diverse sector of the economy. Recently i work with eportal Net as an apprentice  (eportalnet.com : A Company that creates School Management System Solution for Primary and Secondary Schools). I am a creative personnel and an expert at translating real life problem to coded solution
                                      
                                     </div>
-                                    <div class="col-sm-3 ">
+                                    <div class="col-sm-3 bg-secondary ">
                                         <img class="img" src="images/nimi.png
                                         " alt=" image">
                                     </div>
-                                    <div class="col-sm-3 card">
+                                    <div class="col-sm-3 bg-secondary text-white">
                                       Creative personnel with focus of delivering the best possible result within the least possible time frame, a goal getter, can function in a team and also individually. Highly recommended for problem solving and analysis using digital skills ranging from relevant soft wares to programming and animations. Senior Web Developer specializing backend development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including
                                         </div>
                                     {{-- <div class="col-sm-3"> <img src="images/best.jpg" alt="best"width="200" height="300"> </div> --}}
