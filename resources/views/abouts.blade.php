@@ -12,11 +12,11 @@
                 <div class="row align-items-center position-relative">
                     <div class="col-lg-12 ">
                         <div class="slider_text text-center about_slide">
-                            <h1 class="text-warning" style="font-family: cursive; font-size:30px">Hi there, I am Oluwalonimi Olanrewaju <br>
+                            <h1 class="" style="font-family: cursive; font-size:30px">Hi there, I am Oluwalonimi Olanrewaju <br>
                                     Full Stack Developer  <br>
                                     I’m a Creative web Developer based on Nigeria, who loves clean, simple & unique design. I also enjoy coding
                                 </h1>
-                                <div class="row float-left mb-7 text-warning">
+                                <div class="row float-left mb-7">
                                     <div class="col-sm-3 card" >
                                         I started Coding in 2021, So far i have developed easySubmit.com(A website where built for universities for assignments submission ), foodie.com( A website designed for a Resturant for Food ordering and delivering) and many other websites for clients in diverse sector of the economy. Recently i work with eportal Net as an apprentice  (eportalnet.com : A Company that creates School Management System Solution for Primary and Secondary Schools). I am a creative personnel and an expert at translating real life problem to coded solution
                                      
