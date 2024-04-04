@@ -17,11 +17,11 @@
                                     I’m a Creative web Developer based on Nigeria, who loves clean, simple & unique design. I also enjoy coding
                                 </h1>
                                 <div class="row float-left mb-7">
-                                    <div class="col-sm-3 card" >
+                                    <div class="col-sm-3 c" >
                                         I started Coding in 2021, So far i have developed easySubmit.com(A website where built for universities for assignments submission ), foodie.com( A website designed for a Resturant for Food ordering and delivering) and many other websites for clients in diverse sector of the economy. Recently i work with eportal Net as an apprentice  (eportalnet.com : A Company that creates School Management System Solution for Primary and Secondary Schools). I am a creative personnel and an expert at translating real life problem to coded solution
                                      
                                     </div>
-                                    <div class="col-sm-3 card">
+                                    <div class="col-sm-3 ">
                                         <img class="img" src="images/nimi.png
                                         " alt=" image">
                                     </div>
